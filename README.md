@@ -6,4 +6,4 @@ I'm interested in Web development (both front-end and back-end).
 * FB: [Peeranat Danaidusadeekul](https://www.facebook.com/nprdphoto)
 * IG: [nprdphoto](https://www.instagram.com/nprdphoto/)
 * Linkedin: [Peeranat Danaidusadeekul](https://www.linkedin.com/in/peeranatd/)
-
+* Email: [ppeeranat.d@gmail.com](mailto:ppeeranat.d@gmail.com)
