@@ -1,5 +1,5 @@
 ### Hello World 👋
-I'm Peeranat, a fourth year Industrial Engineering student at Chulalongkorn University. I'm now 21 years old. 
+I'm Peeranat, a fourth year Industrial Engineering student at Chulalongkorn University. I'm now 22 years old. 
 I'm interested in Web development (both front-end and back-end). 
 
 ### Reach me at :incoming_envelope:
